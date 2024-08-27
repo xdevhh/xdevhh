@@ -1,7 +1,6 @@
 Hi there 👋
 
 
-- 🔭 I’m currently working on web application
 - 🌱 Growing in development 
 - 👯 Want to build together? Let's connect! 
 - 😄 Pronouns: she/her
